@@ -1,16 +1,9 @@
-# namer
+# Генератор слов
 
-A new Flutter project.
+Приложение генерирует рандомные пары английских слов, слова можно добавлять в избранные
 
-## Getting Started
+![Главная страница приложения](/images/MainPage.jpg "Главная страница приложения")
 
-This project is a starting point for a Flutter application.
+![Страница с избранными словами](/images/FavoritesPage.jpg "Страница с избранными словами")
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Приложение было сделано по данному [курсу](https://codelabs.developers.google.com/codelabs/flutter-codelab-first)
